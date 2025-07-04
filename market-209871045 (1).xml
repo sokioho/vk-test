@@ -7,7 +7,7 @@
           <currency id="RUB" rate="1"/>
         </currencies>
         <categories>
-          
+          <category id="1">Аксессуары → Чехлы</category>
         </categories>
         <offers>
           
