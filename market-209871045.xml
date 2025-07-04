@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <yml_catalog date="2021-04-01 12:20">
+      <shop>
+        <name>Третья мировая</name>
+        <company>Третья мировая</company>
+        <currencies>
+          <currency id="RUB" rate="1"/>
+        </currencies>
+        <categories>
+          
+        </categories>
+        <offers>
+          
+          <offer id="209871045-5154514" available="true" group_id="209871045">
+            <currencyId>RUB</currencyId>
+            <price>5990.00</price>
+            
+            <name>«BUNNY» mask-zip hoodie</name>
+            <description>  Ткань: 95% хлопок 5% эластан 
+  — Оверсайз крой
+  — Уникальная маска 
+  — Размеры M / L
+   
+  — Цена 5990rub
+
+  Для заказа пишите в дм
+
+  — Доставка 350rub
+ 
+  Все худи будут переданы/отправлены покупателям в течение недели после заказа</description>
+
+            <picture>https://sun9-86.userapi.com/s/v1/ig2/xiOVV0GsyLaq_SWf-Bnm5ht9Haw3izVdpDyvtyANKUi7O2RUlm_P3UvBL0kF45iBnMnCTVTQCjBL0DCXrvmx2cAn.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080&from=bu&cs=1080x0</picture>,<picture>https://sun9-77.userapi.com/s/v1/ig2/fzzIg9iLlHzl0ALbD8o2Sja8qFNJhGND3gsisYX4rBV3CBMvjtb16_giwrpQVnYnBNP2VWBvoOVC6wRbrRdSgxui.jpg?quality=96&as=32x43,48x64,72x96,108x144,160x214,240x320,360x480,480x641,540x721,640x854,720x961,1080x1441,1199x1600&from=bu&cs=1199x0</picture>,<picture>https://sun9-45.userapi.com/s/v1/ig2/Rb_AwsZfTXbWyH0uz0uX6wtngdxfj7JRUSMDewGSa6v2mSisXwGcX4LMxK23GlicDhK9_KohNTI5HVjxHUPmx8bp.jpg?quality=96&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1200x1600&from=bu&cs=1200x0</picture>,<picture>https://sun9-60.userapi.com/s/v1/ig2/li4Q2kIPn4Wg0GaTrZHZlkOmBU4hHmPSqN6g3Y9N8haCn-khCgzXqCw1TLBXaor-04vY4CsR6c5ub9HWe54qZ9a2.jpg?quality=96&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1200x1600&from=bu&cs=1200x0</picture>
+
+            
+            
+            
+            
+
+          </offer>
+        </offers>
+      </shop>
+  </yml_catalog>
