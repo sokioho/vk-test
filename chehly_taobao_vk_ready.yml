@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2025-07-04 18:30">
+  <shop>
+    <name>COAS - Магазин Оригинальной Одежды и Обуви</name>
+    <company>Физическое лицо</company>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="47">Чехлы для устройств</category>
+    </categories>
+    <offers>
+      <offer id="TB001" available="true">
+        <currencyId>RUB</currencyId>
+        <price>2162</price>
+        <categoryId>47</categoryId>
+        <name>Чехол силиконовый iPhone 13 Pro Max</name>
+        <description><![CDATA[Чехол для телефона iPhone
+Прочный материал, надёжная посадка, защита камеры и корпуса. Подходит под конкретную модель, отличная совместимость и стильный внешний вид.]]></description>
+        <picture>https://img.alicdn.com/imgextra/i1/2206348089441/O1CN01boQgPt1QmnHZw0Sjq_!!2206348089441.jpg</picture>
+      </offer>
+      <offer id="TB002" available="true">
+        <currencyId>RUB</currencyId>
+        <price>2192</price>
+        <categoryId>47</categoryId>
+        <name>Чехол глянцевый с кольцом iPhone 14</name>
+        <description><![CDATA[Чехол для телефона iPhone
+Прочный материал, надёжная посадка, защита камеры и корпуса. Подходит под конкретную модель, отличная совместимость и стильный внешний вид.]]></description>
+        <picture>https://img.alicdn.com/imgextra/i3/2210607276226/O1CN01RJ7y8k1OuzYGHZ9GH_!!2210607276226.jpg</picture>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
